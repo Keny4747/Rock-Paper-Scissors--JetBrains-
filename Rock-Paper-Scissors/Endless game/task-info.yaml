@@ -143,15 +143,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/24617#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #1\n\nNot enough results of the games were printed!\n\
-    \ Tried to input 8 actions and got 1 results of the games.\nPerhaps your program\
-    \ did not run enough games. Is it set up correctly to loop until the user inputs\
-    \ ‘!exit’? \nAlso, make sure you print the result  of the game in the correct\
-    \ format after each valid input!\n\nPlease find below the output of your program\
-    \ during this failed test.\nNote that the &#39;&gt;&#39; character indicates the\
-    \ beginning of the input line.\n\n---\n\n&gt; rock\nWell done. The computer chose\
-    \ scissors and failed"
-  time: "Mon, 09 Jan 2023 22:11:42 UTC"
+  message: Congratulations!
+  time: "Tue, 10 Jan 2023 15:41:10 UTC"
 record: 3
